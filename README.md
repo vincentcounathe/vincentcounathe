@@ -1,16 +1,20 @@
-## Hi there 👋
+# Vincent Counathe
 
-<!--
-**vincentcounathe/vincentcounathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD at Cornell**  
+Exploring efficiency and generative modeling at scale.
 
-Here are some ideas to get you started:
+[vc383@cornell.edu](mailto:vc383@cornell.edu)  
+[vincentcounathe.github.io](https://vincentcounathe.github.io)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Focus
+- Diffusion models
+- LLM efficiency
+- Generative modeling architectures
+
+---
+
+## Skills
+**Programming:** Python, C++, Java, HTML  
+**Frameworks & Libraries:** PyTorch, JAX, NumPy, Pandas, Scikit-Learn, HuggingFace Transformers, CUDA  
