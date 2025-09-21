@@ -15,5 +15,5 @@ Exploring efficiency and generative modeling at scale.
 
 ---
 
-**Programming:** Python, C++, Java
+**Programming:** Python, C++, Java  
 **Frameworks:** PyTorch, TensorFlor, JAX, NumPy, Pandas, Scikit-Learn, HuggingFace Transformers, CUDA  
