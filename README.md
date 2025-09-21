@@ -8,13 +8,12 @@ Exploring efficiency and generative modeling at scale.
 
 ---
 
-## Research Focus
+## Research
 - Diffusion models
 - LLM efficiency
 - Generative modeling architectures
 
 ---
 
-## Skills
-**Programming:** Python, C++, Java, HTML  
-**Frameworks & Libraries:** PyTorch, JAX, NumPy, Pandas, Scikit-Learn, HuggingFace Transformers, CUDA  
+**Programming:** Python, C++, Java
+**Frameworks:** PyTorch, TensorFlor, JAX, NumPy, Pandas, Scikit-Learn, HuggingFace Transformers, CUDA  
